@@ -41,7 +41,7 @@ const format = {
 };
 
 const extraMetadata = {
-
+external_url: "https://mblc.xyz"
 };
 
 // NFTPort Info
