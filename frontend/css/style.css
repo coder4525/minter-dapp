@@ -8,11 +8,11 @@
   --font-primary: "VT323", sans-serif;
   --font-secondary: "Press Start 2P", serif;
   --font-code: "", monospace;
-  --bg-color: #000220;
+  --bg-color: #ffffff;
   --bg-color-transparent: #000000;
-  --font-color: #ffffff;
+  --font-color: #3d8543;
   --btn-bg-color: #ffffff;
-  --accent-color: #009407;
+  --accent-color: #ffffff;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
