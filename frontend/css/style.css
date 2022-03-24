@@ -8,8 +8,8 @@
 
 :root {
   --font-primary: "", sans-serif;
-  --font-secondary: "Press Start 2P", serif;
-  --font-code: "Press Start 2P", monospace;
+  --font-secondary: "", serif;
+  --font-code: "", monospace;
   --bg-color: #000220;
   --bg-color-transparent: #000000;
   --font-color: #ffffff;
