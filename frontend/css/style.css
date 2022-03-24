@@ -102,8 +102,8 @@ header .container {
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
-  background: white;
-  color: var(--accent-color);
+  background: white; /*metamask botton color*/
+  color: red;
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
