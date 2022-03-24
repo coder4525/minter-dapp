@@ -7,7 +7,7 @@
 :root {
   --font-primary: "VT323", sans-serif;
   --font-secondary: "Press Start 2P", serif;
-  --font-code: "", monospace;
+  --font-code: "Syne Mono", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
   --font-color: #ffffff; /*font*/
