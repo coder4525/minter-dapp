@@ -10,7 +10,7 @@
   --font-code: "", monospace;
   --bg-color: #000000;
   --bg-color-transparent: #ff0000;
-  --font-color: #54c45e; /*font*/
+  --font-color: #ffffff; /*font*/
   --btn-bg-color: #54c45e; /*MetaMast botton*/
   --accent-color: #000000; /*Second background*/
   --header-shadow: var(--accent-color) 0px 0px 5px;
