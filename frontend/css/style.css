@@ -250,7 +250,7 @@ section {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: var(--accent-color);
+  background-color: rgb(50, 112, 50); /*bar inside the card*/
   border-radius: 5px;
 }
 
@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: var(--accent-color) solid;
+  border: black solid; /*di slidde!!!!*/
   border-width: 5px 10px;
 }
 
