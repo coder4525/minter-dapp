@@ -1,25 +1,25 @@
 const contractAddress = "0x0B457764dBbbd2928C0bf9c2D3A848FF1E5bF70C"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "THE BACTERIA LAB IS WAITING FOR YOU!";
+const welcome_h1 = "OUR SPACE BACTERIA LAB IS WAITING FOR YOU!";
 const welcome_h2 = "Connect to your MetaMask account";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Space Bacterias were invented in a galactic scientific lab on the planet BAC-69, They evolved faster than the scientist have thought and became possible threat to their whole solar system, The space scientist sending them to earth in order to get rid of them.';
 const h1_presale_coming_soon = "The Space Bacterias Are On Their Way To Earth...";
 const h1_presale_mint = "Pre-Sale Minting Open";
 const h1_public_mint = "Public Minting Open!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "Our space scientists are working exetremly hard to release the space bacteria to earth. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
+const p_presale_coming_soon = "Our galactic scientists are working exetremly hard to release the space bacteria to earth. Stay tuned for updates!";
+const p_presale_mint_not_whitelisted = "You are not spacelisted for the pre-sale..😢";
 const p_presale_mint_whitelisted = "Your Space Bacteria Is Waiting For You!";
-const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
+const p_presale_mint_already_minted = "You've already claimed your spacelist mint. Thank you🎉";
 const p_public_mint = "Your Space Bacteria Is Waiting To Be Release!";
-const button_presale_coming_soon = "Get on the Whitelist";
+const button_presale_coming_soon = "Get on the spacelist";
 const button_presale_mint_whitelisted = "Mint Your Space Bacteria";
-const button_presale_mint_not_whitelisted = "Get on the Whitelist";
-const button_presale_already_minted = "Join The Community";
+const button_presale_mint_not_whitelisted = "Get on the spacelist";
+const button_presale_already_minted = "Join Our Lab";
 const button_public_mint = "MINT";
-const mint_failed = "Minting failed. 😢 Your bacteria is waiting...";
+const mint_failed = "Minting failed😢. Your Space bacteria cant escape, try again...";
 
 const abi = [
   {
