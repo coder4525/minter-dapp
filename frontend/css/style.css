@@ -14,7 +14,7 @@
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #000000; /*Second background*/
   --header-shadow: var(--accent-color) 0px 0px 5px;
-  --card-shadow: green 0px 0px 20px;
+  --card-shadow: red 0px 0px 20px;
 }
 
 * {
