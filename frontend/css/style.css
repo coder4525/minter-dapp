@@ -102,8 +102,8 @@ header .container {
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
-  background: var(--btn-bg-color); /*botton color*/
-  color: var(--accent-color); /*text shit*/
+  background: black; /*botton color*/
+  color: white; /*text shit*/
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
