@@ -1,14 +1,12 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Press+Start+2P&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "", sans-serif;
-  --font-secondary: "", serif;
+  --font-primary: "Audiowide", sans-serif;
+  --font-secondary: "Press Start 2P", Display;
   --font-code: "", monospace;
   --bg-color: #000220;
   --bg-color-transparent: #000000;
