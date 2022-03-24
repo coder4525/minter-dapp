@@ -284,12 +284,10 @@ section {
   justify-content: space-between;
   width: 100%;
   padding: 1rem 0 2rem;
-  stroke: #000000;
-  stroke-width: 100px;
 }
 
 .total-price-container p {
-  color: var(--accent-color);
+  color: var(--font-color);
 }
 
 /* MINTED CONTAINER */
