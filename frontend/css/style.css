@@ -46,7 +46,7 @@ body {
 
 header {
   background-color: var(--bg-color);
-  box-shadow: rgb(46, 46, 46);
+  box-shadow: var(--header-shadow);
 }
 
 header .container {
@@ -111,7 +111,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: var(--header-shadow);
+  box-shadow: red;
   cursor: pointer;
   position: relative;
   text-decoration: none;
