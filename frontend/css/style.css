@@ -10,7 +10,7 @@
   --font-code: "", monospace;
   --bg-color: #313131;
   --bg-color-transparent: #ff0000;
-  --font-color: #4d9153; /*font*/
+  --font-color: #396e3d; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #b88f8f; /*Second background*/
   --header-shadow: blue 0px 0px 5px;
@@ -111,7 +111,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: rgb(255, 0, 0);
+  box-shadow: black; /*i really dont know*/
   cursor: pointer;
   position: relative;
   text-decoration: none;
@@ -140,9 +140,9 @@ header .container {
 
 .card {
   position: relative;
-  background-color: white; /*card color*/
+  background-color: #313131; /*card color*/
   border-radius: 5px;
-  border: 3px solid paleturquoise; /*outside the card*/
+  border: 3px solid var(--font-color); /*outside the card*/
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
@@ -250,7 +250,7 @@ section {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: red; /*bar inside the card*/
+  background-color: rgb(187, 185, 51); /*bar inside the card*/
   border-radius: 5px;
 }
 
@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: yellowgreen solid; /*slide in home page*/
+  border: rgb(187, 185, 51); /*slide in home page*/
   border-width: 5px 10px;
 }
 
