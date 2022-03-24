@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Press+Start+2P&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Syne+Mono&family=VT323&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Syne Mono", sans-serif;
   --font-secondary: "Press Start 2P", serif;
-  --font-code: "Syne Mono", monospace;
+  --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
   --font-color: #ffffff; /*font*/
