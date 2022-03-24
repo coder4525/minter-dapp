@@ -10,10 +10,10 @@
   --font-code: "", monospace;
   --bg-color: #313131;
   --bg-color-transparent: #ff0000;
-  --font-color: #396e3d; /*font*/
+  --font-color: #ffffff; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #b88f8f; /*Second background*/
-  --header-shadow: blue 0px 0px 5px;
+  --header-shadow: rgb(0, 0, 0) 0px 0px 5px;
   --card-shadow: red 0px 0px 20px; /*glowing shit and sum*/
 }
 
@@ -45,7 +45,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: rgb(104, 165, 92); /*top bar color*/
+  background-color: rgb(68, 114, 59); /*top bar color*/
   box-shadow: var(--header-shadow);
 }
 
@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: rgb(187, 185, 51); /*slide in home page*/
+  border: rgb(0, 0, 0); /*slide in home page*/
   border-width: 5px 10px;
 }
 
