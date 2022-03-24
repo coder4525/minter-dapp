@@ -326,9 +326,9 @@ section {
 
 .lower-bar {
   position: absolute;
-  top: 15px;
-  left: 5rem;
-  z-index: -1;
+  top: 50px;
+  left: 10rem;
+  z-index: -2;
 }
 
 .splide__slide {
