@@ -46,7 +46,7 @@ body {
 
 header {
   background-color: var(--bg-color);
-  box-shadow: var(--header-shadow);
+  box-shadow: rgb(46, 46, 46);
 }
 
 header .container {
@@ -287,7 +287,7 @@ section {
 }
 
 .total-price-container p {
-  color: var(--accent-color);
+  color: var(--font-color);
 }
 
 /* MINTED CONTAINER */
