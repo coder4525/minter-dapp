@@ -7,7 +7,7 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Press Start 2P", sans-serif;
+  --font-primary: "", sans-serif;
   --font-secondary: "Press Start 2P", serif;
   --font-code: "Press Start 2P", monospace;
   --bg-color: #000220;
