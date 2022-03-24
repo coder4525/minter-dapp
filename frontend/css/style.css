@@ -10,9 +10,9 @@
   --font-code: "", monospace;
   --bg-color: #ffffff;
   --bg-color-transparent: #000000;
-  --font-color: #3d8543;
-  --btn-bg-color: #3d8543;
-  --accent-color: #bbffcf;
+  --font-color: #3d8543; /*font*/
+  --btn-bg-color: #3d8543; /*MetaMast botton*/
+  --accent-color: #80ffa6; /*Second background*/
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
