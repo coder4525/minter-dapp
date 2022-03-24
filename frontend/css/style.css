@@ -11,7 +11,7 @@
   --bg-color: #000000;
   --bg-color-transparent: #ff0000;
   --font-color: #54c45e; /*font*/
-  --btn-bg-color: #54c45e; /*MetaMast botton*/
+  --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #000000; /*Second background*/
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
@@ -102,7 +102,7 @@ header .container {
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
-  background: var(--btn-bg-color);
+  background: white;
   color: var(--accent-color);
   font-family: var(--font-secondary);
   font-style: italic;
@@ -200,7 +200,7 @@ section {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
   font-size: 1.1rem;
-  color: white;
+  color: var(--bg-color);
   padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
