@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Syne+Mono&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Syne+Mono&family=VT323&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Syne Mono", sans-serif;
   --font-secondary: "VT323", serif;
-  --font-third: "Major Mono Display", ;
+  --font-third: "Bebas Neue", ;
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
