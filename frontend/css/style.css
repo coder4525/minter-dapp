@@ -1,12 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Syne+Mono&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Syne+Mono&family=VT323&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Syne Mono", sans-serif;
   --font-secondary: "VT323", serif;
+  --font-third: "Major Mono Display", ;
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
@@ -104,7 +105,7 @@ header .container {
   padding: 1rem 2rem;
   background: rgb(0, 0, 0); /*botton color*/
   color: white; /*text shit*/
-  font-family: var(--font-secondary);
+  font-family: var(--font-third);
   font-style: italic;
   font-weight: bold;
   font-size: 1rem;
