@@ -8,11 +8,11 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #202000;
-  --bg-color-transparent: #021a00;
-  --font-color: #9cd11f;
+  --bg-color: #000220;
+  --bg-color-transparent: #000000;
+  --font-color: #92aa09;
   --btn-bg-color: #ffffff;
-  --accent-color: #bd7c28;
+  --accent-color: #7c9108;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
