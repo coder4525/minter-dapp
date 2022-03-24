@@ -12,7 +12,7 @@
   --bg-color-transparent: #006443; /*nothing*/
   --font-color: #ffffff; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
-  --accent-color: #b88f8f; /*Second background*/
+  --accent-color: #000000; /*Second background*/
   --header-shadow: rgb(0, 0, 0) 0px 0px 5px; /*crossing line*/
   --card-shadow: rgb(255, 255, 255) 0px 0px 20px; /*glowing shit and sum*/
 }
