@@ -7,7 +7,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Mutant Bacteria Lab Club";
+const namePrefix = "Space Bacteria Lab Club";
 const description = "This is a cool bacteria project";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
@@ -52,8 +52,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Mutant Bacteria Lab Club';
-const CONTRACT_SYMBOL = 'MBLC';
+const CONTRACT_NAME = 'Space Bacteria Lab Club';
+const CONTRACT_SYMBOL = 'SBLC';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x1894f5a167c2b09404027a21f5E5ad3fe7060e82';
 const TREASURY_ADDRESS = '0x1894f5a167c2b09404027a21f5E5ad3fe7060e82';
