@@ -8,7 +8,7 @@
   --font-primary: "VT323", sans-serif;
   --font-secondary: "Press Start 2P", serif;
   --font-code: "", monospace;
-  --bg-color: #2c2c2c;
+  --bg-color: #292929;
   --bg-color-transparent: #ff0000;
   --font-color: #54c45e; /*font*/
   --btn-bg-color: #54c45e; /*MetaMast botton*/
@@ -103,7 +103,7 @@ header .container {
   display: inline-block;
   padding: 1rem 2rem;
   background: black;
-  color: rgb(190, 96, 96);
+  color: rgb(190, 192, 87);
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
