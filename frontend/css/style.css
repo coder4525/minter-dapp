@@ -1,15 +1,15 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Space Mono  ", sans-serif;
-  --font-secondary: "Space Mono  ", serif;
-  --font-code: "Space Mono  ", monospace;
+  --font-primary: "Press Start 2P", sans-serif;
+  --font-secondary: "Press Start 2P", serif;
+  --font-code: "Press Start 2P", monospace;
   --bg-color: #000220;
   --bg-color-transparent: #000000;
   --font-color: #ffffff;
