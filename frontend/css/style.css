@@ -9,7 +9,7 @@
   --font-secondary: "Press Start 2P", serif;
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
-  --bg-color-transparent: #ff0000; /*nothing*/
+  --bg-color-transparent: #006443; /*nothing*/
   --font-color: #ffffff; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #b88f8f; /*Second background*/
@@ -45,7 +45,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: rgb(50, 112, 50);
+  background-color: var(--bg-color-transparent);
   box-shadow: var(--header-shadow);
 }
 
@@ -111,7 +111,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: rgb(50, 112, 50);
+  box-shadow: white;
   cursor: pointer;
   position: relative;
   text-decoration: none;
@@ -142,7 +142,7 @@ header .container {
   position: relative;
   background-color: var(--bg-color);
   border-radius: 5px;
-  border: 3px solid rgb(50, 112, 50);
+  border: 3px solid var(--bg-color-transparent);
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
@@ -250,7 +250,7 @@ section {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: rgb(50, 112, 50); /*bar inside the card*/
+  background-color: var(--bg-color-transparent); /*bar inside the card*/
   border-radius: 5px;
 }
 
@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: rgb(50, 112, 50) solid; /*di slidde!!!!*/
+  border: var(--bg-color-transparent) solid; /*di slidde!!!!*/
   border-width: 5px 10px;
 }
 
