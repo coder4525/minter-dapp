@@ -140,7 +140,7 @@ header .container {
 
 .card {
   position: relative;
-  background-color: white;
+  background-color: white; /*card color*/
   border-radius: 5px;
   border: 3px solid var(--accent-color);
   box-shadow: var(--card-shadow);
@@ -200,7 +200,7 @@ section {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
   font-size: 1.1rem;
-  color: var(--bg-color);
+  color: white;
   padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
