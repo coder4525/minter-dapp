@@ -10,7 +10,7 @@
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #006443; /*nothing*/
-  --font-color: #004561; /*font*/
+  --font-color: #ffffff; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #b88f8f; /*Second background*/
   --header-shadow: rgb(0, 0, 0) 0px 0px 5px; /*crossing line*/
@@ -184,7 +184,7 @@ section {
   height: auto;
 }
 .countdown .clock-item .count-number {
-  background: var(--accent-color);
+  background: white;
   color: var(--font-color);
   font-size: 2rem;
   font-weight: 700;
@@ -210,7 +210,7 @@ section {
 }
 
 .countdown h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 white;
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
