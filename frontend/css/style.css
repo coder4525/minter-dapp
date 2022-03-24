@@ -10,7 +10,7 @@
   --font-code: "", monospace;
   --bg-color: #313131;
   --bg-color-transparent: #ff0000;
-  --font-color: #54c45e; /*font*/
+  --font-color: #4d9153; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
   --accent-color: #b88f8f; /*Second background*/
   --header-shadow: blue 0px 0px 5px;
@@ -111,7 +111,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: black;
+  box-shadow: rgb(255, 0, 0);
   cursor: pointer;
   position: relative;
   text-decoration: none;
