@@ -1,13 +1,15 @@
 /* FONTS */
 
 @import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
+  --font-primary: "Hanalei Fill", sans-serif;
+  --font-secondary: "Hanalei Fill", serif;
+  --font-code: "Hanalei Fill", monospace;
   --bg-color: #000220;
   --bg-color-transparent: #000000;
   --font-color: #ffffff;
