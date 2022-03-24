@@ -8,7 +8,7 @@
   --font-primary: "VT323", sans-serif;
   --font-secondary: "Press Start 2P", serif;
   --font-code: "", monospace;
-  --bg-color: #313131; /*backgound homepage*/
+  --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #ff0000; /*nothing*/
   --font-color: #ffffff; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
@@ -287,7 +287,7 @@ section {
 }
 
 .total-price-container p {
-  color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 /* MINTED CONTAINER */
