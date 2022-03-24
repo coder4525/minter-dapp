@@ -8,7 +8,7 @@
   --font-primary: "VT323", sans-serif;
   --font-secondary: "Press Start 2P", serif;
   --font-code: "", monospace;
-  --bg-color: #000000;
+  --bg-color: #313131;
   --bg-color-transparent: #ff0000;
   --font-color: #54c45e; /*font*/
   --btn-bg-color: #a80000; /*MetaMast botton*/
@@ -45,7 +45,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: white; /*top bar color*/
+  background-color: rgb(104, 165, 92); /*top bar color*/
   box-shadow: var(--header-shadow);
 }
 
@@ -102,8 +102,8 @@ header .container {
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
-  background: white; /*metamask botton color*/
-  color: red; /*metamask text botton color and mint price shit*/
+  background: rgb(255, 255, 255); /*metamask botton color*/
+  color: rgb(0, 0, 0); /*metamask text botton color and mint price shit*/
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
@@ -111,7 +111,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: var(--header-shadow);
+  box-shadow: black;
   cursor: pointer;
   position: relative;
   text-decoration: none;
@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: yellowgreen solid;
+  border: yellowgreen solid; /*slide in home page*/
   border-width: 5px 10px;
 }
 
