@@ -103,7 +103,7 @@ header .container {
   display: inline-block;
   padding: 1rem 2rem;
   background: black; /*botton color*/
-  color: white; /*text shit*/
+  color: rgb(50, 112, 50); /*text shit*/
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
@@ -142,7 +142,7 @@ header .container {
   position: relative;
   background-color: var(--bg-color);
   border-radius: 5px;
-  border: 3px solid var(--accent-color);
+  border: 3px solid rgb(50, 112, 50);
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
