@@ -404,6 +404,6 @@ section {
   width: 100%;
   height: 20px;
   border: 0 none;
-  background-color: white;
-  margin: 10px auto;
+  background-color: var(--bg-color-transparent);
+  margin: 0px auto;
 }
