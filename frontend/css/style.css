@@ -409,8 +409,8 @@ hr{
 
 .h{
 
-  width: 90%;
+  width: 100%;
   border: 0;
   border-bottom: 5px solid red;
-  margin: 100px auto;
+  margin: 200px auto;
 }
