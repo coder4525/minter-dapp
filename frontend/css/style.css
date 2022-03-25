@@ -406,3 +406,10 @@ border: 0;
 border-bottom: 1px solid #ccc;
 margin: 20px auto;
 }
+
+hr{
+  width: 90%;
+  border: 0;
+  border-bottom: 10px solid #ccc;
+  margin: 20px auto;
+}
