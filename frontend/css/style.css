@@ -251,8 +251,8 @@ section {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: red; /*bar inside the card*/
-  border-radius: 5px;
+  background-color: var(--bg-color-transparent); /*bar inside the card*/
+  border-radius: 1px;
 }
 
 .mint-qty > span {
