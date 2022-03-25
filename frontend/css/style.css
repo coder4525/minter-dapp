@@ -60,11 +60,8 @@ header .container {
   display: center;
   gap: 1rem;
   align-items: center;
+  margin-right: 100px;
 }
-
-/*LOWER*/
-
-
 
 /* NOT CONNECTED */
 .not-connected {
