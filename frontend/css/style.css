@@ -411,7 +411,7 @@ hr{
 
   width: 100%;
   height: 1000px;
-  border: 0;
+  border: 100px;
   border-bottom: 5px solid red;
   margin: 200px auto;
 }
