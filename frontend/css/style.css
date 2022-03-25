@@ -401,7 +401,9 @@ section {
 }
 
 .line-10{
-  height: 3px;
+  width: 90%;
+  height: 20px;
+  border: 0 none;
   background-color: white;
-  margin: 2rem auto;
+  margin: 200px auto;
 }
