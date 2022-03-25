@@ -74,6 +74,16 @@ header .container {
   transition: all 0.5s ease-in-out;
 }
 
+
+.pic3{
+  border: 0px solid darkblue;
+  width: 0px;
+  height: 0px;
+  position: relative;
+  left: 60%;
+  bottom: 88%;
+}
+
 .show-not-connected {
   opacity: 1;
   transform: translateY(0);
@@ -416,16 +426,6 @@ section {
   left: 82%;
   bottom: 40%;
 }
-
-.pic3{
-  border: 0px solid darkblue;
-  width: 0px;
-  height: 0px;
-  position: relative;
-  left: 60%;
-  bottom: 88%;
-}
-
 
 .line-10{
   width: 100%;
