@@ -54,6 +54,7 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  box-shadow: #000000 20px;
 }
 
 .menu {
