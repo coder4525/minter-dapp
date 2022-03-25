@@ -58,11 +58,11 @@ header .container {
 }
 
 .menu {
-  display: center;
+  display: lest;
   gap: 1rem;
   align-items: left;
   position: relative;
-  right: 500px;
+  right: 650px;
 }
 
 /* NOT CONNECTED */
