@@ -102,7 +102,7 @@ header .container {
 
 .btn {
   display: inline-block;
-  padding: 1rem 3rem;
+  padding: 1rem 19rem;
   background: rgb(255, 255, 255); /*botton color*/
   color: rgb(0, 0, 0); /*text shit*/
   font-family: var(--font-third);
