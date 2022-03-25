@@ -64,22 +64,7 @@ header .container {
 
 /*LOWER*/
 
-header {
-  background-color: var(--bg-color-transparent);
-  box-shadow: var(--header-shadow);
-}
 
-header .container {
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.menu {
-  display: flex;
-  gap: 2rem;
-  align-items: center;
-}
 
 /* NOT CONNECTED */
 .not-connected {
