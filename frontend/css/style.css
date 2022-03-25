@@ -198,8 +198,8 @@ section {
   border-radius: 4px 4px 0 0;
 }
 .countdown .clock-item .count-text {
-  background: var(--btn-bg-color);
-  font-family: var(--font-secondary);
+  background: var(--bg-color-transparent);
+  font-family: var(--font-4);
   font-size: 1.1rem;
   color: var(--bg-color);
   padding: 0.5rem 0.7rem;
