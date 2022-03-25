@@ -60,6 +60,7 @@ header .container {
   display: center;
   gap: 2rem;
   align-items: center;
+  box-shadow: #000000 20px;
 }
 
 /* NOT CONNECTED */
@@ -402,5 +403,4 @@ section {
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
-  box-shadow: #000000;
 }
