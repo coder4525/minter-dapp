@@ -1,6 +1,6 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Syne+Mono&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@700&family=Syne+Mono&family=VT323&display=swap');
 
 /* GLOBAL STYLES */
 
@@ -8,6 +8,7 @@
   --font-primary: "Syne Mono", sans-serif;
   --font-secondary: "VT323", serif;
   --font-third: "Bebas Neue", ;
+  --font-4: "Space Mono", ;
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
@@ -188,7 +189,7 @@ section {
   color: var(--font-color);
   font-size: 2rem;
   font-weight: 700;
-  font-family: var(--font-secondary);
+  font-family: var(--font-4);
   padding: 1rem;
   display: inline-block;
   width: 100%;
