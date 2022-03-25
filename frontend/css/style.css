@@ -397,13 +397,22 @@ section {
   display: none;
 }
 
+.pic1{
+width: 100%;
+height: 400px;
+z-index: 1000;
+}
+
+.pic2{
+  width: 100%;
+  height: 400px;
+  z-index: 500;
+}
+
 .line-10{
   width: 100%;
   height: 12px;
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
-}
-
-.pics{
 }
