@@ -53,7 +53,8 @@ header {
 
 header .container {
   flex-direction: row;
-  justify-content: normal;
+  justify-content: space-between;
+  width: 50px;
   align-items: left;
 }
 
