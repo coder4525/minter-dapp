@@ -2,7 +2,7 @@ const contractAddress = "0x0B457764dBbbd2928C0bf9c2D3A848FF1E5bF70C"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "OUR SPACE BACTERIA LAB IS WAITING FOR YOU!";
-const welcome_h2 = img.src = "p12.png";
+const welcome_h2 = "Connect to MetaMask to Get Started"
 const welcome_p = 'The Space Bacterias were invented in a galactic scientific lab on their home planet BAC-69, They evolved faster than the scientist expected and became threat to their planet, The space scientist sending them to earth in order to get rid of them.';
 const h1_presale_coming_soon = "The Space Bacterias Are On Their Way To Earth...";
 const h1_presale_mint = "Pre-Sale Minting Open";
