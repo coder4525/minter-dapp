@@ -398,11 +398,12 @@ section {
 }
 
 .pic1{
-width: 100%;
-height: 400px;
-position: relative;
-left: 500px;
-border: 5px solid darkblue;
+
+  width: 100%;
+  height: 400px;
+  position: relative;
+  left: 500px;
+  border: 5px solid darkblue;
 }
 
 .pic2{
