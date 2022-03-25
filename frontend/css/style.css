@@ -58,7 +58,7 @@ header .container {
 
 .menu {
   display: center;
-  gap: 1rem;
+  gap: 2rem;
   align-items: center;
   margin-left: 100px;
 }
