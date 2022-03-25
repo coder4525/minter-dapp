@@ -400,13 +400,6 @@ section {
   display: none;
 }
 
-hr{
-  width: 90%;
-  border: 0;
-  border-bottom: 5px solid #ccc;
-  margin: 10px auto;
-}
-
 .h{
 
   width: 100%;
@@ -414,4 +407,11 @@ hr{
   border: 100px;
   border-bottom: 5px solid red;
   margin: 200px auto;
+}
+
+hr{
+  width: 90%;
+  border: 0;
+  border-bottom: 5px solid #ccc;
+  margin: 10px auto;
 }
