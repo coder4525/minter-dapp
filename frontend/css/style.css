@@ -402,4 +402,5 @@ section {
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
+  box-shadow: #000000;
 }
