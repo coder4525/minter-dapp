@@ -323,9 +323,9 @@ section {
 
 .splide {
   position: absolute;
-  top: 90px;
+  top: 85px;
   left: 5rem;
-  z-index: 289;
+  z-index: -1;
 }
 
 .splide__slide {
