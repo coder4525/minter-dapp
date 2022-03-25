@@ -250,7 +250,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 200px;
+  padding: 5px;
   background-color: var(--bg-color-transparent); /*bar inside the card*/
   border-radius: 1px;
 }
@@ -268,7 +268,7 @@ section {
 
 .input-number {
   height: 100%;
-  padding: 1rem;
+  padding: 200rem;
   vertical-align: top;
   text-align: center;
   outline: none;
