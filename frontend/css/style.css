@@ -109,7 +109,7 @@ header .container {
   font-family: var(--font-third);
   font-style: italic;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 5rem;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
@@ -307,7 +307,7 @@ section {
 }
 
 .minted-container h2 {
-  font-size: 10rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
