@@ -59,8 +59,10 @@ header .container {
 
 .menu {
   display: center;
-  gap: 2rem;
+  gap: 1rem;
   align-items: center;
+  position: relative;
+  left: 100px;
 }
 
 /* NOT CONNECTED */
@@ -123,7 +125,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: white;
+  box-shadow: rgb(0, 0, 0);
   cursor: pointer;
   text-decoration: none;
   outline: none;
