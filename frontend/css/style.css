@@ -13,7 +13,7 @@
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
   --font-color: #ffffff; /*font*/
-  --btn-bg-color: #a80000; /*MetaMast botton*/
+  --btn-bg-color: #12889c; /*MetaMast botton*/
   --accent-color: #000000; /*Second background*/
   --header-shadow: rgb(0, 0, 0) 0px 0px 5px; /*crossing line*/
   --card-shadow: rgb(255, 255, 255) 0px 0px 20px; /*glowing shit and sum*/
@@ -189,7 +189,7 @@ section {
   color: var(--font-color);
   font-size: 2rem;
   font-weight: 700;
-  font-family: var(--font-4);
+  font-family: var(--font-secondary);
   padding: 1rem;
   display: inline-block;
   width: 100%;
@@ -199,7 +199,7 @@ section {
 }
 .countdown .clock-item .count-text {
   background: var(--bg-color-transparent);
-  font-family: var(--font-4);
+  font-family: var(--font-secondary);
   font-size: 1.1rem;
   color: var(--bg-color);
   padding: 0.5rem 0.7rem;
