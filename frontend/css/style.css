@@ -57,9 +57,9 @@ header .container {
 }
 
 .menu {
-  display: flex;
+  display: right;
   gap: 1rem;
-  align-items: right;
+  align-items: center;
 }
 
 /*LOWER*/
