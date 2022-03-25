@@ -53,13 +53,13 @@ header {
 header .container {
   flex-direction: row;
   justify-content: space-between;
-  align-items: right;
+  align-items: center;
 }
 
 .menu {
   display: flex;
   gap: 1rem;
-  align-items: center;
+  align-items: right;
 }
 
 /*LOWER*/
