@@ -50,6 +50,8 @@ body {
 header {
   background-color: var(--bg-color-transparent);
   box-shadow: var(--header-shadow);
+  position: absolute;
+  width: 100%;
 }
 
 header .container {
