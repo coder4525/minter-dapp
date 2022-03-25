@@ -268,7 +268,7 @@ section {
 
 .input-number {
   height: 100%;
-  padding: 200rem;
+  padding: 1rem;
   vertical-align: top;
   text-align: center;
   outline: none;
@@ -307,7 +307,7 @@ section {
 }
 
 .minted-container h2 {
-  font-size: 2rem;
+  font-size: 10rem;
   margin-bottom: 1rem;
 }
 
