@@ -57,7 +57,7 @@ header .container {
 }
 
 .menu {
-  display: right;
+  display: center;
   gap: 1rem;
   align-items: center;
 }
