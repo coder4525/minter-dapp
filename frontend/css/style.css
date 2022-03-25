@@ -132,10 +132,10 @@ header .container {
 }
 
 .hero-btn {
-  border-radius: 4px;
+  border-radius: 100px;
   font-family: var(--font-secondary);
   font-size: 3rem;
-
+  padding: 1.5rem 3rem;
 }
 
 /* CARD */
