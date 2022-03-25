@@ -105,7 +105,7 @@ header .container {
   display: inline-block;
   padding: 1rem 2rem;
   background: rgb(255, 255, 255); /*botton color*/
-  color: rgb(0, 0, 0); /*text shit*/
+  color: var(--bg-color-transparent); /*text shit*/
   font-family: var(--font-third);
   font-style: italic;
   font-weight: bold;
@@ -186,9 +186,8 @@ section {
 }
 .countdown .clock-item .count-number {
   background: var(--btn-bg-color);
-  color: rgb(0, 173, 58);
+  color: rgb(204, 0, 0);
   font-size: 3rem;
-  box-shadow: #000000;
   font-weight: 700;
   font-family: var(--font-secondary);
   padding: 1rem;
