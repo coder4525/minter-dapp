@@ -400,3 +400,12 @@ section {
   display: none;
 }
 
+.line-10{
+  height: 3px;
+  background-color: white;
+}
+
+body {
+  width: 90%;
+  margin: 2rem auto;
+}
