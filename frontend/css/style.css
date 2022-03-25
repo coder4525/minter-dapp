@@ -54,6 +54,8 @@ header {
 header .container {
   flex-direction: row;
   justify-content: space-between;
+  position: relative;
+  right: 300px;
   align-items: left;
 }
 
