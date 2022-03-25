@@ -60,9 +60,9 @@ header .container {
 .menu {
   display: center;
   gap: 1rem;
-  align-items: center;
+  align-items: left;
   position: relative;
-  right: 300px;
+  right: 500px;
 }
 
 /* NOT CONNECTED */
