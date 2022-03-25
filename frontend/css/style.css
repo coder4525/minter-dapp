@@ -405,7 +405,6 @@ section {
   height: 0px;
   position: relative;
   left: 1px;
-  z-index: 3px;
 }
 
 .pic2{
@@ -413,8 +412,7 @@ section {
   width: 0px;
   height: 0px;
   position: relative;
-  left: 1000px;
-  z-index: 2px;
+  left: 2000px;
 }
 
 .line-10{
@@ -423,5 +421,4 @@ section {
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
-  z-index: 1px;
 }
