@@ -59,7 +59,8 @@ header .container {
 .menu {
   display: center;
   gap: 1rem;
-  align-items: 100px;
+  align-items: center;
+  margin-left: 100px;
 }
 
 /* NOT CONNECTED */
