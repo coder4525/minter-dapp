@@ -325,7 +325,7 @@ section {
 }
 
 .splide__slide {
-  border: var(--bg-color-transparent) solid; /*di slidde!!!!*/
+  border: red solid; /*di slidde!!!!*/
   border-width: 5px 10px;
 }
 
