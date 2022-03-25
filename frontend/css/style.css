@@ -423,6 +423,5 @@ section {
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
-  box-shadow: #000000;
-  height: 1px;
+  box-shadow: #000000 1px;
 }
