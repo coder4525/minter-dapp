@@ -63,6 +63,13 @@ header .container {
   margin-left: 200px;
 }
 
+.menu-2 {
+  display: center;
+  gap: 1rem;
+  align-items: center;
+  margin-left: 200px;
+}
+
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
