@@ -54,7 +54,6 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  box-shadow: #000000 20px;
 }
 
 .menu {
@@ -113,7 +112,7 @@ header .container {
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: white;
+  box-shadow: white 20px;
   cursor: pointer;
   position: relative;
   text-decoration: none;
