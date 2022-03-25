@@ -402,8 +402,8 @@ section {
 
 hr{
   width: 90%;
-  border: 0;
-  border-bottom: 50px solid #ccc;
+  border: 20px;
+  border-bottom: 5px solid #ccc;
   margin: 10px auto;
 }
 
