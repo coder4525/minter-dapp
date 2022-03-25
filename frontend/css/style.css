@@ -146,7 +146,7 @@ header .container {
   border-radius: 5px;
   border: 6px solid var(--bg-color-transparent);
   box-shadow: var(--card-shadow);
-  padding: 5rem;
+  padding: 4rem;
   margin-bottom: 2rem;
   opacity: 0;
   transform: translateX(100vw);
