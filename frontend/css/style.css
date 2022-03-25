@@ -399,3 +399,10 @@ section {
 .hidden {
   display: none;
 }
+
+hr{
+width: 90%;
+border: 0;
+border-bottom: 1px solid #ccc;
+margin: 20px auto;
+}
