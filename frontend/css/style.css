@@ -62,7 +62,7 @@ header .container {
   gap: 1rem;
   align-items: center;
   position: relative;
-  left: 100px;
+  right: 300px;
 }
 
 /* NOT CONNECTED */
