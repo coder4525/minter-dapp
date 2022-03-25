@@ -415,4 +415,5 @@ z-index: 1000;
   border: 0 none;
   background-color: var(--bg-color-transparent);
   margin: 0px auto;
+  z-index: 100;
 }
