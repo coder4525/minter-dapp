@@ -400,13 +400,13 @@ section {
 .pic1{
 width: 100%;
 height: 400px;
-z-index: 1000;
+position: relative;
+left: 500px;
 }
 
 .pic2{
   width: 100%;
   height: 400px;
-  z-index: 500;
 }
 
 .line-10{
