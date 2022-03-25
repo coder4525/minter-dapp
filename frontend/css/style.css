@@ -5,10 +5,10 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Syne Mono", sans-serif;
+  --font-primary: "VT323", sans-serif;
   --font-secondary: "VT323", serif;
-  --font-third: "Bebas Neue", ;
-  --font-4: "Space Mono", ;
+  --font-third: "VT323", ;
+  --font-4: "VT323", ;
   --font-code: "", monospace;
   --bg-color: #202020; /*backgound homepage*/
   --bg-color-transparent: #00515f; /*nothing*/
