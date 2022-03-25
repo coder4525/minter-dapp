@@ -400,6 +400,7 @@ section {
 /*my changes*/
 
 .pic1{
+  display: block;
   border: 0px solid darkblue;
   width: 0px;
   height: 0px;
