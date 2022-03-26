@@ -431,6 +431,7 @@ section {
   border: 0px solid darkblue;
   width: 0px;
   height: 0px;
+  position: relative;
 }
 
 .line-10{
