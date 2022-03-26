@@ -433,7 +433,8 @@ section {
   height: 0px;
   position: relative;
   bottom: 320px;
-  right: 20%;
+  right: 100%;
+  left: 200%;
 }
 
 .line-10{
