@@ -155,7 +155,7 @@ header .container {
   width: 0px;
   height: 0px;
   position: relative;
-  bottom: 210px;
+  top: 100%;
   left: 37%;
 }
 
