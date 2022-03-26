@@ -152,7 +152,7 @@ header .container {
 
 .card {
   position: relative;
-  background-color: var(--bg-color);
+  background-color: rgb(67, 67, 78);
   border-radius: 5px;
   border: 6px solid var(--bg-color-transparent);
   box-shadow: var(--card-shadow);
