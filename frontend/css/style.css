@@ -431,10 +431,6 @@ section {
   border: 0px solid darkblue;
   width: 0px;
   height: 0px;
-  position: relative;
-  right: 82%;
-  bottom: 5%;
-  z-index: 400;
 }
 
 .line-10{
@@ -443,6 +439,4 @@ section {
   border: 0 none;
   background-color: var(--bg-color-transparent);
   box-shadow: var(--header-shadow);
-  position: relative;
-  z-index: 200;
 }
