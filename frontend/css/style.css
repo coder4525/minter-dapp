@@ -434,7 +434,7 @@ section {
   position: relative;
   right: 82%;
   bottom: 5%;
-  z-index: 100;
+  z-index: 400;
 }
 
 .line-10{
@@ -444,5 +444,5 @@ section {
   background-color: var(--bg-color-transparent);
   box-shadow: var(--header-shadow);
   position: relative;
-  z-index: 0;
+  z-index: 200;
 }
